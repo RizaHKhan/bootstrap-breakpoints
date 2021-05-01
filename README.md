@@ -11,3 +11,6 @@ These breakpoints can be used in the code as follows:
   }
 }
 ```
+
+# Spacing
+Using them like so `m1` `p2`. Unlike other frameworks, they don't have a dash ('-').
